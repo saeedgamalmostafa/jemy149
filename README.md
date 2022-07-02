@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemy149&label=Profile%20views&color=0e75b6&style=flat" alt="jemy149" /> </p>
 
-- 🌱 I’m currently learning **more and more advanced topics in Flutter.r**
+- 🌱 I’m currently learning **more advanced topics in Flutter**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **any thing in Flutter**
 
 - 📫 How to reach me **said12045@gmail.com**
 
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemy149&show_icons=true&locale=en" alt="jemy149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemy149&" alt="jemy149" /></p>
-

@@ -1,11 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Said Gamal</h1>
 <h3 align="center">Junior Mobile Developer (Flutter Developer).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemy149&label=Profile%20views&color=0e75b6&style=flat" alt="jemy149" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemy149" alt="jemy149" /></a> </p>
 
 - 🌱 I’m currently learning **more and more advanced topics in Flutter.r**
 
@@ -27,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemy149&show_icons=true&locale=en" alt="jemy149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemy149&" alt="jemy149" /></p>
+

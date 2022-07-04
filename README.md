@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Said Gamal</h1>
 <h3 align="center">Junior Mobile Developer (Flutter Developer).</h3>
 
+
+<p align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/media/add814a6687bb970a2310c90cefd3846.gif" width="362" height="272">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemy149&label=Profile%20views&color=0e75b6&style=flat" alt="jemy149" /> </p>
 
 - 🚀 I'm creatively curious and self-learner. I love developing mobile applications and currently learning new skills. 
@@ -9,7 +12,6 @@
 - 💬 I'm looking for word to evaluating my skills at all sides.
 -  Show ❤️ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<p align="right"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/media/add814a6687bb970a2310c90cefd3846.gif" width="725" height="544">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/said-gamal-218331190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/said-gamal-218331190/" height="30" width="40" /></a>

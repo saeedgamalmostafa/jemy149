@@ -11,7 +11,7 @@
 -  Show ❤️ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 
-<p align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif" width="400" height="300">
+<p align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.stack.imgur.com/vXYLh.gif" width="400" height="300">
 
 
 <h3 align="left">Connect with me:</h3>

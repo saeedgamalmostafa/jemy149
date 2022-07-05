@@ -2,12 +2,14 @@
 <h3 align="center">Junior Mobile Developer (Flutter Developer).</h3>
 
 
+</p>
+
 - 🚀 I'm creatively curious and self-learner. I love developing mobile applications and currently learning new skills. 
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza.](https://algoriza.com/)
 - 🌱 I’m currently focusing on whole software engineering process.
 - 💬 I'm looking for word to evaluating my skills at all sides.
 -  Show ❤️ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
-<p> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/media/add814a6687bb970a2310c90cefd3846.gif" width="362" height="272"></a>
+<p align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/media/add814a6687bb970a2310c90cefd3846.gif" width="362" height="272">
 
 
 <h3 align="left">Connect with me:</h3>

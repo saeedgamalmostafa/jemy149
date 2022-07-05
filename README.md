@@ -2,14 +2,14 @@
 <h3 align="center">Junior Mobile Developer (Flutter Developer).</h3>
 
 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jemy149&label=Profile%20views&color=0e75b6&style=flat" alt="jemy149" /> </p>
 
 - 🚀 I'm creatively curious and self-learner. I love developing mobile applications and currently learning new skills. 
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza.](https://algoriza.com/)
 - 🌱 I’m currently focusing on whole software engineering process.
 - 💬 I'm looking for word to evaluating my skills at all sides.
 -  Show ❤️ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
-<p align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/media/add814a6687bb970a2310c90cefd3846.gif" width="362" height="272">
+<p align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif" width="725" height="544">
 
 
 <h3 align="left">Connect with me:</h3>

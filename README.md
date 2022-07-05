@@ -6,7 +6,7 @@
 
 - 🚀 I'm creatively curious and self-learner. I love developing mobile applications and currently learning new skills. 
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza.](https://algoriza.com/)
-- 🌱 I’m currently focusing on Data Structures and Algorithms.
+- 🌱 I’m currently focusing on Data Structures and Algorithms by reading books about it every day.
 - 💬 I'm looking for word to evaluating my skills at all sides.
 -  Show ❤️ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 

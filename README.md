@@ -9,8 +9,8 @@
 - 🌱 I’m currently focusing on whole software engineering process.
 - 💬 I'm looking for word to evaluating my skills at all sides.
 -  Show ❤️ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif" width="725" height="544">
 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif" width="365" height="272">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

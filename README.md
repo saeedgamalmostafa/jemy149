@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Said Gamal</h1>
 <h3 align="center">Junior Mobile Developer (Flutter Developer).</h3>
 
-<p align="right"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.stack.imgur.com/vXYLh.gif" width="400" height="300">
+<p align="right"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.stack.imgur.com/vXYLh.gif" width="200" height="150">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemy149&label=Profile%20views&color=0e75b6&style=flat" alt="jemy149" /> </p>
 

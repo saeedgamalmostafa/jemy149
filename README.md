@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Said Gamal</h1>
 <h3 align="center">Junior Mobile Developer (Flutter Developer).</h3>
-
-<p align="right"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.stack.imgur.com/vXYLh.gif" width="400" height="300">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemy149&label=Profile%20views&color=0e75b6&style=flat" alt="jemy149" /> </p>
 
-- 🚀 I'm creatively curious and self-learner. 
-   I love developing mobile applications and currently learning new skills. 
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza.](https://algoriza.com/)
-- 🌱 I’m currently focusing on Data Structures and Algorithms
-   by reading books about it every day.
-- 💬 I'm looking for word to evaluating my skills at all sides.
+- 🧑‍💻 Ex-developer at [Magdsoft.](https://www.magdsoft.com/)
+
 
 
 
